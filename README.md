@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+![Atom](./image_2022-02-20_185058.png)
+
 **atomdevelops/atomdevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
