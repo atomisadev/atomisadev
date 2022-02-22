@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Atom](./image_2022-02-20_185534.png)
+![Atom](./image_2022-02-21_192705.png)
 
 **Hi, I'm Atom.**
 
