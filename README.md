@@ -20,9 +20,7 @@ I work mainly with JS and TS to make web applications and software for people an
 
 🎨 **Current projects:**
 - NeoPass - Advanced Password Manager
-- Flux - Beginner-friendly database wrapper
 
 🔗 Links
 - [Website](https://atomdev.cf/)
-- [Flux Website](https://flux.atomdev.cf/)
 - NeoPass Website (Coming Soon!)
