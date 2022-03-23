@@ -5,13 +5,13 @@
 Hey there. Thanks for visiting my profile. If you like a good UI, you can [visit my website](https://atomdev.cf). Actually come to think of it, it's a decent UI.
 
 Anyways, I'm Atom. Here are a list of languages (and my skill level with it) listed below:
-- C++ **- Intermediate**
+- C++ **- Advanced**
 - C# **- Intermediate**
-- Java **- Intermediate**
+- Java **- Advanced**
 - JavaScript **- Very Experienced**
 - TypeScript **- Advanced**
 - Go **- Intermediate**
-- Rust **- Intermediate**
+- Rust **- Advanced**
 - HTML & CSS **- Experienced**
 
 I work mainly with JS and TS to make web applications and software for people and developers to use. I have also made a few Steam release games which have all been archived now and made open-source through itch.io. 
