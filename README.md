@@ -30,7 +30,6 @@ I work mainly with JS and TS to make web applications and software for people an
 🎨 **Current projects:**
 - Carbon Code Editor - Open-sourced, lightweight code editor
 - Bamboo - An open-source application to send HTTP requests.
-- NeoPass - **Discontinued**
 
 🔗 Links
 - [Website](https://atomdev.cf/)
