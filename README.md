@@ -5,8 +5,8 @@
 Hey there. Thanks for visiting my profile. If you like a good UI, you can [visit my website](https://atomdev.cf). Actually come to think of it, it's a decent UI.
 
 Anyways, ⚛️ I'm Atom. Here are a list of 🎨 languages (and my skill level with it) listed below:
-- C++ **- Advanced**
-- C# **- Intermediate**
+- C++ **- Intermediate**
+- C# **- Advanced**
 - Java **- Advanced**
 - JavaScript **- Very Experienced**
 - TypeScript **- Very Experienced**
