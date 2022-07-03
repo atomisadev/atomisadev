@@ -33,5 +33,3 @@ I work mainly with JS 🟨 and TS 🟦 to make web applications and software for
 
 🔗 Links
 - [Website](https://atomdev.cf/)
-- Carbon Code Editor (Coming soon!)
-- Bamboo (Coming soon!)
