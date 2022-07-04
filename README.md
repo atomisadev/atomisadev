@@ -13,7 +13,7 @@ Anyways, ⚛️ I'm Atom. Here are a list of 🎨 languages (and my skill level 
 - Go **- Intermediate**
 - Rust **- Advanced**
 - MongoDB **- Experienced**
-- PostgreSQL **- Advanced**
+- PostgreSQL **- Beginner**
 - Node **- Very Experienced**
 - HTML & CSS **- Experienced**
 
