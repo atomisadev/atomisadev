@@ -14,8 +14,5 @@ I am mainly a web developer 💻, so here is a list of the frameworks 🪟 I'm g
 
 I work mainly with JS 🟨 and TS 🟦 to make web applications and software for people and developers to use. I have also made a few Steam release games which have all been archived now and made open-source through itch.io. 
 
-## What am I working on?
-I am currently working on a 2D JavaScript Graphics Engine currently named Mirage. It's a solo project, meaning it's just me working on it.  
-
 🔗 Links
 - [Website](https://atomdev.cf/)
