@@ -1,6 +1,8 @@
-![image](https://user-images.githubusercontent.com/99760654/162842946-2ca0177c-e8c7-42d1-a4d7-8c26f88b0255.png)
-
 <h1 align="center">👋 Hey, I'm Atom!</h1>
+
+<p float="right">
+  <img src="https://user-images.githubusercontent.com/99760654/184541994-7402698f-4349-4271-bb42-98b8cf14e03e.png" width="100" />
+</p>
 
 Hey there. Thanks for visiting my profile. You can visit my website [here](//atomdev.cf).
 
