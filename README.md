@@ -5,7 +5,7 @@
 
 Hey there. Thanks for visiting my profile. You can visit my website [here](//atomdev.cf).
 
-I am mainly a web developer 💻, so here is a list of the frameworks 🪟 I'm good at:
+I am mainly a web developer 💻 (and UI/UX designer 🎨), so here is a list of the frameworks 🪟 I'm good at:
 - React **- Very Experienced**
 - Gatsby **- Experienced**
 - Vue.js **- Experienced**
