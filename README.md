@@ -11,7 +11,7 @@ I am mainly a web developer 💻 (and UI/UX designer 🎨), so here is a list of
 - Vue.js **- Experienced**
 - Nuxt.js **- Experienced**
 - Next.js **- Very Experienced**
-- Svelte **- Experienced**
+- Svelte **- Intermediate**
 
 I work mainly with JS 🟨 and TS 🟦 to make web applications and software for people and developers to use. I have also made a few Steam release games which have all been archived now and made open-source through itch.io. 
 
