@@ -10,7 +10,4 @@ I am mainly a web developer 💻 (and UI/UX designer 🎨), so here is a list of
 - Next.js **- Very Experienced**
 - Svelte **- Intermediate**
 
-I work mainly with JS 🟨 and TS 🟦 to make web applications and software for people and developers to use. I have also made a few Steam release games which have all been archived now and made open-source through itch.io. 
-
-🔗 Links
-- [Website](https://atomdev.cf/)
+I work mainly with JS 🟨 and TS 🟦 to make web applications and software for people and developers to use. Currently burnt out of project ideas.
