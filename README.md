@@ -14,5 +14,5 @@ I work mainly with JS 🟨 and TS 🟦 to make web applications and software for
 
 ## Stats
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=atomdevelops)
+  <img src="https://github-readme-stats.vercel.app/api?username=atomdevelops" />
 </div>
