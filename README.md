@@ -13,4 +13,4 @@ I am mainly a web developer 💻 (and UI/UX designer 🎨), so here is a list of
 I work mainly with JS 🟨 and TS 🟦 to make web applications and software for people and developers to use. Currently burnt out of project ideas.
 
 ## Stats
-[![Atom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atomdevelops)](https://github.com/atomdevelops/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=atomdevelops)
