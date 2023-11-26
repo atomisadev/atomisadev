@@ -7,6 +7,7 @@
 
 I am mainly a web developer 💻 (and UI/UX designer 🎨), so here is a list of the frameworks 🪟 I'm good at:
 - React **- Very Experienced**
+- React Native **- Very Experienced**
 - Gatsby **- Experienced**
 - Vue.js **- Experienced**
 - Nuxt.js **- Experienced**
